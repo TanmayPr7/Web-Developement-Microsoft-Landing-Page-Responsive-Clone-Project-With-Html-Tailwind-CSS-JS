@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+
+.btn{
+    @apply text-blue-700 font-semibold p-2 pl-0;
+}
+
+.h1{
+    @apply text-2xl font-semibold leading-7 mb-2;
+}
+
+.para{
+    @apply font-normal leading-6;
+}
+
+.fh1{
+    @apply pt-9 pb-1 font-semibold text-gray-600;
+}
+
+.fpara{
+    @apply py-2 text-xs text-gray-600 block;
+}
+@tailwind utilities;
+
+This is the required Tailwind CSS source code for this clone project:)
+//////////////////////////////////////////////////////////////////////
